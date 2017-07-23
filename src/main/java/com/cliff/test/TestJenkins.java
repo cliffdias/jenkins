@@ -12,6 +12,6 @@ public class TestJenkins {
 	}
 	
 	public int onePlusOne(){
-		return 1+1;
+		return 1+2;
 	}
 }
